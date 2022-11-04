@@ -1,16 +1,13 @@
-# dcam
+# Dcam
 
-A new Flutter project.
+A Basic Camera app with :
+1. Photo/Video recording modes
+2. Adjust Resolution
+3. Flash modes
+4. Exposure control
+5. Focus Control
+6. Zoom Controls
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is a modified version of Appdrug's openSource App
