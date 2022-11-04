@@ -8,6 +8,8 @@ A Basic Camera app with :
 5. Focus Control
 6. Zoom Controls
 
+![InCollage_20221104_202840239](https://user-images.githubusercontent.com/116789128/200030904-72d813c3-f354-41c2-b984-988b66093835.jpg)
+
 ## Description
 
 This project is a modified version of Appdrug's openSource App
